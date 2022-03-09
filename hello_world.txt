@@ -1,1 +1,1 @@
-Hello World
+I have deleted the line Hello World
